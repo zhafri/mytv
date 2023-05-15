@@ -1,51 +1,5 @@
 #EXTINF:-1 tvg-id="TV1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Logo_rtm_tv1_new.png" group-title="MYTV",TV1
 https://live.mana2.my/Tv1/index.m3u8
 
-#EXTINF:-1 tvg-id="TV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/102_300.png" group-title="MYTV",TV2
-https://live.mana2.my/Tv2/index.m3u8
 
-#EXTINF:-1 tvg-id="TV6" tvg-logo="https://www.linkpicture.com/q/TV6_-Malaysia_2021.png" group-title="MYTV",TV6
-https://live.mana2.my/Tv6/index.m3u8
-
-#EXTINF:-1 tvg-id="OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MYTV",OKEY
-https://live.mana2.my/TvOkey/index.m3u8
-
-#EXTINF:-1 tvg-id="BernamaTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="MYTV",Bernama
-https://live.mana2.my/Bernama/index.m3u8
-
-#EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png" group-title="MYTV",BERITA RTM
-https://live.mana2.my/BeritaRtm/index.m3u8
-
-#EXTINF:-1 tvg-id="Sukan RTM" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",RTM SUKAN
-https://live.mana2.my/SukanRtm/index.m3u8
-
-#EXTINF:-1 tvg-id="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png" group-title="MYTV",TV3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png" group-title="MYTV",Drama Sangat
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://www.linkpicture.com/q/DidikTV_KPM_-2021.png" group-title="MYTV",DIDIK TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="8TV" tvg-logo="https://vectorlogo4u.com/wp-content/uploads/2020/11/8TV-malaysia-Logo-Vector.png" group-title="MYTV",8TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1632px-TV9_%28Malaysia%29_logo.svg.png" group-title="MYTV",TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MYTV",TV Al-Hijrah
-https://live.mana2.my/TvAlhijrah/index.m3u8
-
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png" group-title="MYTV",SUKE TV
-https://live.mana2.my/SukeTV/index.m3u8
-
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://4.bp.blogspot.com/-6pSBtNgrh5s/Wj9h7ZoApNI/AAAAAAAAJ2k/iauSGlk4KD8eoH05Ruyf3qiDRMAeeqGgACLcBGAs/s1600/tvikim.jpg" group-title="MYTV",TV IKIM
-https://live.mana2.my/TvIkim/index.m3u8
-
-#EXTINF:-1 tvg-id="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="KOREAN",tvN
-https://live-sg3.global.ssl.fastly.net/live-hls/tonton6_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="tvNMovies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/416.png" group-title="MOVIES",tvN Movies
-https://live-sg3.global.ssl.fastly.net/live-hls/tonton7_720p/index.m3u8
 
