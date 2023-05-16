@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Logo_rtm_tv1_new.png" group-title="MYTV",TV1
-https://live.mana2.my/Tv1/index.m3u8
+https://live.mana2.my/Tv1/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-country="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/102_300.png" group-title="MYTV",TV2
 https://live.mana2.my/Tv2/index.m3u8
