@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Logo_rtm_tv1_new.png" group-title="MYTV",TV1
-https://live.mana2.my/Tv1/tracks-v2a1/mono.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-country="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/102_300.png" group-title="MYTV",TV2
-https://live.mana2.my/Tv2/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-country="MY" tvg-logo="https://www.linkpicture.com/q/TV6_-Malaysia_2021.png" group-title="MYTV",TV6
-https://live.mana2.my/Tv6/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" tvg-name="TV OKEY" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MYTV",OKEY
-https://live.mana2.my/TvOkey/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="BernamaTV" tvg-name="BERNAMA TV" tvg-country="MY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="MYTV",Bernama
 https://live.mana2.my/Bernama/index.m3u8
 
 #EXTINF:-1 tvg-id="Berita RTM" tvg-name="BERITA RTM" tvg-country="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png" group-title="MYTV",BERITA RTM
-https://live.mana2.my/BeritaRtm/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="Sukan RTM"  tvg-name="RTM SUKAN" tvg-country="MY" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",RTM SUKAN
-https://live.mana2.my/SukanRtm/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png" group-title="MEDIA PRIMA",TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
