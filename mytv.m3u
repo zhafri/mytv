@@ -39,16 +39,16 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 #EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="TV Al-Hijrah" tvg-country="MY" ch-number="114" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MYTV",TV Al-Hijrah
 https://live.mana2.my/TvAlhijrah/index.m3u8
 
-#EXTINF:-1 tvg-ID="CHN" tvg-name="SUKE TV" tvg-country="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png" group-title="MYTV",SUKE TV
+#EXTINF:-1 tvg-id="CHN" tvg-name="SUKE TV" tvg-country="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png" group-title="MYTV",SUKE TV
 https://live.mana2.my/SukeTV/index.m3u8
 
-#EXTINF:-1 tvg-ID="CHN" tvg-name="TV IKIM" tvg-country="MY" tvg-logo="https://4.bp.blogspot.com/-6pSBtNgrh5s/Wj9h7ZoApNI/AAAAAAAAJ2k/iauSGlk4KD8eoH05Ruyf3qiDRMAeeqGgACLcBGAs/s1600/tvikim.jpg" group-title="MYTV",TV IKIM
+#EXTINF:-1 tvg-id="CHN" tvg-name="TV IKIM" tvg-country="MY" tvg-logo="https://4.bp.blogspot.com/-6pSBtNgrh5s/Wj9h7ZoApNI/AAAAAAAAJ2k/iauSGlk4KD8eoH05Ruyf3qiDRMAeeqGgACLcBGAs/s1600/tvikim.jpg" group-title="MYTV",TV IKIM
 https://live.mana2.my/TvIkim/index.m3u8
 
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="KOREAN",tvN
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="MYTV",tvN
 https://live-sg3.global.ssl.fastly.net/live-hls/tonton6_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvNMovies" tvg-country="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/416.png" group-title="MOVIES",tvN Movies
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvNMovies" tvg-country="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/416.png" group-title="MYTV",tvN Movies
 https://live-sg3.global.ssl.fastly.net/live-hls/tonton7_720p/index.m3u8
 
 
